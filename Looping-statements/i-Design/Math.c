@@ -83,7 +83,7 @@ int main(){
     int k,N,i, result=0;
     scanf("%d",&k);
     scanf("%d",&N);
-    for(i=0;i<=N;i++){
+    for(i=2;i<=N;i++){
         /*
         *discluding 1 from the checking rang
         *since 1 has an infinte streak
