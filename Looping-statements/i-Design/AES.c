@@ -30,7 +30,7 @@ int main(){
     scanf("%d%d",&l,&u);
     while(l<=u){
         c=0;
-        for(i=1;i<=1;i++){
+        for(i=1;i<=l;i++){
             if(l%i==0){
                 c++;
             }
