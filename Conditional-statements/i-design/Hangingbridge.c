@@ -22,15 +22,29 @@ yes
 #include <stdio.h>
 int main()
 {
-    int c, d, l, tot;
-    scanf("%d %d %d", &c, &d, &l);
-    tot = (c * 2) + (d * 2);
-    if (tot = l)
+    int c, d, L, tot;
+    scanf("%d %d %d", &c, &d, &L);
+    tot = d - (c * 2);
+    if (tot <= 0)
     {
-        printf("Yes");
+        if (L >= (c * 2) && L <= ((c * 2) + (d * 2)) && L % 2 == 0)
+        {
+            printf("yes");
+        }
+        else
+        {
+            printf("no");
+        }
     }
-    else
+    else if (tot > 0)
     {
-        printf("No");
+        if (L >= (tot + c) * 2 && L <= ((c * 2) + (c * 2)) && L % 2 == 0)
+        {
+            printf("yes");
+        }
+        else
+        {
+            printf("no");
+        }
     }
 }
