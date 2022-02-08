@@ -26,7 +26,7 @@ Sample Input 2:
 Sample Output 2:
 17
 */
-// CODE
+/*                                                              CODE                                                        */
 #include <stdio.h>
 int main()
 {

@@ -18,7 +18,7 @@ Sample Input 1:
 Sample Output 1:
 yes
 */
-
+/*                                                              CODE                                                        */
 #include <stdio.h>
 int main()
 {

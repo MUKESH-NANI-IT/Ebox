@@ -36,7 +36,7 @@ The result is
 Function Definitions:
 int calculate (int,int)
 */
-//                                  CODE
+/*                                                              CODE                                                        */
 #include <stdio.h>
 int calculate(int, int);
 int power(int, int);

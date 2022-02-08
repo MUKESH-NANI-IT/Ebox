@@ -21,7 +21,7 @@ bb***** bb
 bbb***bbb
 bbbb*bbbb*/
 
-// CODE
+/*                                                              CODE                                                        */
 #include <stdio.h>
 int main()
 {

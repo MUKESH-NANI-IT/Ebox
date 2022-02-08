@@ -36,7 +36,7 @@ Sample Input 2:
 Sample Output 2:
 No
 */
-
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int find(int);
 int main()

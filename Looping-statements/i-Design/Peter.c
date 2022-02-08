@@ -27,6 +27,7 @@ Sample Input 2:
 Sample Output 2:
 Peter plays 71 times before going broke
 **/
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int main(){
     int r,m1,m2,m3;

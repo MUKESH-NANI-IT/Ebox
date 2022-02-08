@@ -39,7 +39,7 @@ Sample Output 2:
 -1
 
 */
-
+ /*                                                              CODE                                                        */
 #include<stdio.h>
 int findValue(int x,int m)
 {

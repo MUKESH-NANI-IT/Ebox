@@ -77,7 +77,7 @@ Explanation:
 
 The 5 Numbers which has streak 1(k)  Within 10(N)  are 2,4,6,8,10.
 ******/
-/*****PROGRAM*****/
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int main(){
     int k,N,i, result=0;

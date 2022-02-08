@@ -41,9 +41,7 @@ Sample Output 3:
 12 is an abundant number
 */
 
-
-
-
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int findType(int n)
 {

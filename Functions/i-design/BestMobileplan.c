@@ -55,6 +55,7 @@ Plan B costs 37.85
 Plan A and B are the same price
 
 */
+/*                                                              CODE                                                        */
 #include<stdio.h>
 void printPlanDetails(int day,int eve,int nyt)
 {

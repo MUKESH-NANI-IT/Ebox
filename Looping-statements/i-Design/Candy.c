@@ -21,7 +21,7 @@ Sample Input 2:
 Sample Output 2:
 0
 */
-/*****PROGRAM*****/
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int main(){
     int num,tempNum,digit,c;

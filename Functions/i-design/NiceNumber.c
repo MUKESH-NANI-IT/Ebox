@@ -33,7 +33,7 @@ Sample Input 2:
 Sample Output 2:
 Not Nice
 */
-
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int findType(int);
 int main()

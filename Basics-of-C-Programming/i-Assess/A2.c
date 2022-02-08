@@ -38,6 +38,7 @@ Enter the length of a side
 The centre of the room is at (18,38)
 
 */
+/*                                                              CODE                                                        */
 
 #include <stdio.h>
 int main()

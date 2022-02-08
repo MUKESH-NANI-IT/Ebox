@@ -37,7 +37,7 @@ Sample Output 3:
 Invalid Input
 */
 
-// CODE
+/*                                                              CODE                                                        */
 #include <stdio.h>
 #include <string.h>
 int main()

@@ -37,6 +37,8 @@ Selling price:
 
 Gain percentage is 5.45*/
 
+/*                                                              CODE                                                        */
+
 #include <stdio.h>
 int main()
 {

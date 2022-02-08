@@ -23,6 +23,7 @@ Sample Input 2:
 Sample Output 2:
 4
 */
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int main(){
     int sd;

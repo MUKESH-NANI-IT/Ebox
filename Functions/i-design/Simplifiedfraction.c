@@ -36,7 +36,7 @@ Sample Input 2:
 Sample Output 2:
 2 3/5
 */
-
+ /*                                                              CODE                                                        */
 #include<stdio.h>
 void printValue(int numerator ,int denominator)
 {

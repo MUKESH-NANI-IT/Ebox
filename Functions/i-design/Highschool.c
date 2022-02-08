@@ -30,8 +30,8 @@ Sample Input 2:
 9
 Sample Output 2:
 4
-*/ 
-
+*/
+/*                                                              CODE                                                        */
 #include<stdio.h>
 int fiboLastDigit(int);
 int main()
