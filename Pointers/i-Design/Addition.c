@@ -25,6 +25,7 @@ Enter the value of b
 -3
 Sum of two elements = 2
 */
+
 /*                                          CODE                                                    */
 #include <stdio.h>
 void addition(int *a, int *b)
