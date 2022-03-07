@@ -33,40 +33,31 @@ Sample Output 2:
 */
 /*                                                              CODE                                                        */
 #include<stdio.h>
-int fiboLastDigit(int);
-int main()
+int fiboLastDigit(int num)
 {
-    int N;
-    scanf("%d",&N);
-    if(N>=0 && N<=10000)
-    {
-        int y=fiboLastDigit(N);
-        printf("%d",y);
-    }
-    return 0;
-}
-int fiboLastDigit(int n)
-{
-    int t1=1,t2=1;
-    int next=t1+t2;
-    if (n==0)
+    int n1, n2, temp;
+    n1 = n2 = 1;
+    if (num == 0)
     {
         return 0;
     }
-    if (n==1 || n==2)
+    if (num == 1 || num == 2)
     {
-     t1=t1%10;
-     return next;
+        return 1;
     }
-    else
+    for (int i = 2; i < num; i++)
     {
-        for (int i = 4; i <=n; i++)
-        {
-            t1=t2;
-            t2=next;
-            next=t1+t2;
-        }
-        int m=next%10;
-        return m;
+        temp = n2;
+        n2 = n1 + n2;
+        n1 = temp;
     }
+    int res = n2 % 10;
+    return res;
+}
+int main()
+{
+    int num;
+    scanf("%d", &num);
+    printf("%d", fiboLastDigit(num));
+    return 0;
 }
