@@ -1,6 +1,14 @@
 {
     "cSpell.words": [
         "Anitha",
+        "endx",
+        "Feburary",
+        "Nurikabe",
+        "typech",
         "Vikram"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
