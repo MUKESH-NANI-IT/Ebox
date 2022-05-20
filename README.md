@@ -6,7 +6,7 @@
  learn and type it on ur own.❤️🧑‍💻
  
  
-The most efficient way to slove E-Box problems:
+The most efficient way to solve E-Box problems:
 
 1.Read a piece of problem.
 
