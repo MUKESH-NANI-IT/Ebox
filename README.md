@@ -15,8 +15,8 @@
 <li>Data Structures</li>
 </ul><ul>
 <li>Algorithm Analysis and Design</li>
-</ul><h2>Screenshots</h2>
-<hr><p><img src="https://image.winudf.com/v2/image1/Y29tLmFtcGhpc29mdC5tZWJveF9lYm94X3NjcmVlbl8zXzE2MTU2NzExOThfMDIy/screen-3.jpg?fakeurl=1&amp;type=.jpg" alt=""></p><h2>Setup</h2>
+</ul>
+<h2>Setup</h2>
 <hr><p>The most efficient way to solve E-Box problems:</p><h5>Steps</h5><ul>
 <li>1.Read a piece of problem.</li>
 </ul><ul>
