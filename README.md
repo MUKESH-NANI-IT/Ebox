@@ -28,7 +28,23 @@
 </ul><h2>Usage</h2>
 <hr><p>My dear fellow coders don't just copy-paste the code learn and type it on ur own.❤️🧑‍💻</p><h5>Code Examples</h5><ul>
 <li>Example code of conditional statements</li>
-</ul><p><code>#include&lt;stdio.h&gt; int main(){     char p[20];     char b[20];     scanf("%s",p);     scanf("%s",b);     printf("%s belongs to the %s Blood group.",p,b); }</code></p><h2>Project Status</h2>
+</ul><p><code>#include&lt;stdio.h&gt;
+
+ int main()
+ 
+ {
+     
+        char p[20];
+          
+        char b[20];
+          
+        scanf("%s",p);
+        
+        scanf("%s",b);
+        
+        printf("%s belongs to the %s Blood group.",p,b);
+        
+}</code></p><h2>Project Status</h2>
 <hr><p>In Progress</p><h2>Improvements</h2>
 <hr><ul>
 <li>Trees 3.c is yet to be coded</li>
