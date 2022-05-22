@@ -30,22 +30,25 @@
 <li>Example code of conditional statements</li>
 </ul><p><code>
 
-#include&lt;stdio.h&gt;
+        #include&lt;stdio.h&gt;
 
-int main()
+        int main()
  
-{
+        {
      
-        char p[20];
+            char p[20];
           
-        char b[20];
+            char b[20];
           
-        scanf("%s",p);
+            scanf("%s",p);
         
-        scanf("%s",b);
+            scanf("%s",b);
         
-        printf("%s belongs to the %s Blood group.",p,b);       
-}</code></p><h2>Project Status</h2>
+            printf("%s belongs to the %s Blood group.",p,b);  
+
+        }
+
+</code></p><h2>Project Status</h2>
 <hr><p>In Progress</p><h2>Improvements</h2>
 <hr><ul>
 <li>Trees 3.c is yet to be coded</li>
