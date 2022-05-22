@@ -1,5 +1,8 @@
 <h1>EBox</h1>
+<<<<<<< HEAD
 ![Xbox](Logo/Ebox.png "E-Box")
+=======
+>>>>>>> 48a279f2f57790ca1341b9d5abd9826a354b79dd
 <hr><p>Codes for the Assessments in the E-Box platform</p><h2>General Information</h2>
 <hr><ul>
 <li>E-Box is a learning platform helps various students to develop their coding skills.</li>
