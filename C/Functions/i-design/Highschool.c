@@ -35,13 +35,13 @@ Sample Output 2:
 #include<stdio.h>
 int fiboLastDigit(int num)
 {
-    int n1, n2, temp;
+    long n1, n2, temp;
     n1 = n2 = 1;
     if (num == 0)
     {
         return 0;
     }
-    if (num == 1 || num == 2)
+    if (num == 1)
     {
         return 1;
     }
@@ -51,7 +51,7 @@ int fiboLastDigit(int num)
         n2 = n1 + n2;
         n1 = temp;
     }
-    int res = n2 % 10;
+    long res = n2 % 10;
     return res;
 }
 int main()
